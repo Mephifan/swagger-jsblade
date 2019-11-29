@@ -1,6 +1,6 @@
 {
   "name": "swagger-jsblade-en",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "origin-version": "1.2.6",
   "description": "english version of swagger-jsblade",
   "main": "index.js",
