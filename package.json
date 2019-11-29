@@ -1,21 +1,22 @@
 {
-  "name": "swagger-jsblade",
-  "version": "1.2.6",
-  "description": "",
+  "name": "swagger-jsblade-en",
+  "version": "0.0.1",
+  "origin-version": "1.2.6",
+  "description": "english version of swagger-jsblade",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lincolnlau/swagger-jsblade.git"
+    "url": "git+https://github.com/f-zou/swagger-jsblade.git"
   },
-  "author": "lincolnlau",
-  "license": "ISC",
+  "author": "f-zou",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/lincolnlau/swagger-jsblade/issues"
+    "url": "https://github.com/f-zou/swagger-jsblade/issues"
   },
-  "homepage": "https://github.com/lincolnlau/swagger-jsblade#readme",
+  "homepage": "https://github.com/f-zou/swagger-jsblade.git",
   "dependencies": {
     "api-cases-middleware": "^0.0.13",
     "chokidar": "^1.7.0",
