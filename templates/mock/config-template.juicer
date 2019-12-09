@@ -21,3 +21,4 @@ module.exports = {
     * @path.headers.host [String]: set the host field in the request headers
     */
  proxy: {}
+ }
