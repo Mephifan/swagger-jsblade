@@ -20,14 +20,4 @@ module.exports = {
     * @path.headers.cookie [String]: set the cookie field in the request headers
     * @path.headers.host [String]: set the host field in the request headers
     */
- proxy: {
-   '/path/**': {
-     target: 'http://meituan.com:80',
-     debug: false,
-     headers: {
-       cookie: 'ssoid=12345678*abcdefg;',
-       host: 'meituan.com'
-     }
-   }
- }
-}
+ proxy: {}
